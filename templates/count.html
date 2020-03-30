@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Count Page</title>
+</head>
+<body>
+
+<h3>Your Entered:</h3>
+{{fulltext}}
+<br/>
+<h2>Count Of word is {{ count }}</h2>
+<h4>WORD COUNT:</h4>
+{% for word, counttotal in worddictionary %}
+
+{{word}} - {{counttotal}}
+
+<br/>
+{% endfor %}
+
+<a href="{% url ' ' %}">Start Again</a>
+</body>
+</html>

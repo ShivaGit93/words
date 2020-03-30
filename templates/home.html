@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shivam Site on Django</title>
+</head>
+<body>
+Welcome to the Shivam's Django Site in Development of Word Count.....
+</body>
+<form action="count">
+    <textarea cols="40" rows="5" name="fulltext"></textarea>
+    <br />
+
+    <input type="submit" value="Count Words" />
+   <a href="{% url 'about' %}"> About </a>
+</form>
+</html>
