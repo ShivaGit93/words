@@ -1,3 +1,0 @@
-Django==3.0.6
-pytz==2020.1
-awsebcli==3.18.1
