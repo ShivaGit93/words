@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f61411ab-97cf-4ee3-93e3-0228deedc2e3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/templates/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/About.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wordcount/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordcount/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +51,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/About.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wordcount/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -121,8 +120,8 @@
         <option value="$PROJECT_DIR$/wordcount/views.py" />
         <option value="$PROJECT_DIR$/wordcount/urls.py" />
         <option value="$PROJECT_DIR$/templates/count.html" />
-        <option value="$PROJECT_DIR$/templates/About.html" />
         <option value="$PROJECT_DIR$/wordcount/settings.py" />
+        <option value="$PROJECT_DIR$/templates/About.html" />
       </list>
     </option>
   </component>
@@ -378,17 +377,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/About.html">
+    <entry file="file://$PROJECT_DIR$/wordcount/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="153">
+          <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordcount/settings.py">
+    <entry file="file://$PROJECT_DIR$/templates/About.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
