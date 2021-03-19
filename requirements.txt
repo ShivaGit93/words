@@ -1,4 +1,4 @@
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 boto==2.49.0
 whitenoise==5.1.0
 sqlparse==0.3.0
